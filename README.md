@@ -48,6 +48,11 @@ A real-time doctor consultation and booking platform with secure video calling c
 
 ---
 
+## Live Demo
+
+- For User: [https://medico-book.onrender.com](https://medico-book.onrender.com)
+- For Admin: [https://medico-book-admin.onrender.com](https://medico-book-admin.onrender.com)
+
 ## 📁 Project Structure
 
 ```plaintext
@@ -71,7 +76,6 @@ A real-time doctor consultation and booking platform with secure video calling c
 ```bash
    git clone https://github.com/praveen00219/CSTech-Infosolutions---Machine-Test.git
    cd doctor-booking-app
-
 
 ```
 
